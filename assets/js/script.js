@@ -215,6 +215,3 @@ var taskStatusChangeHandler = function (event) {
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
 
 pageContentEl = document.addEventListener("click", taskButtonHandler);
-
-
-
